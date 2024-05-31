@@ -1,6 +1,5 @@
 #include"raylib.h"
-#include"game.hpp"
-#include"laser.hpp"
+#include"include/game.hpp"
 #define WIDTH  1024
 #define HEIGHT 720
 

@@ -1,0 +1,15 @@
+  /home/bat/24/spaceinvader0:
+  total used in directory 56 available 115.2 GiB
+  drwxrwxr-x  4 bat bat 4096 May 25 17:39 .
+  -rwxrw-r--  1 bat bat  118 May 25 17:38 build.sh
+  -rw-rw-r--  1 bat bat  275 May 25 17:36 spaceship.hpp
+  -rw-rw-r--  1 bat bat  192 May 25 17:36 enemies.cpp
+  -rw-rw-r--  1 bat bat  618 May 25 17:35 spaceship.cpp
+  -rw-rw-r--  1 bat bat  509 May 25 17:26 game.hpp
+  -rw-rw-r--  1 bat bat  659 May 25 17:25 game.cpp
+  -rw-rw-r--  1 bat bat  524 May 25 16:53 laser.cpp
+  -rw-rw-r--  1 bat bat  236 May 25 16:53 laser.hpp
+  -rw-rw-r--  1 bat bat  592 May 25 16:42 main.cpp
+  drwxrwxr-x  2 bat bat 4096 Mar 25 09:54 Graphics
+  drwxrwxr-x 11 bat bat 4096 Mar 25 09:13 ..
+  drwxrwxr-x 11 bat bat 4096 Apr 18  2023 raylib
